@@ -67,7 +67,7 @@ public class postCounter {
 
 	private static Map<String, Integer> startMachine() {
 		// TODO Auto-generated method stub
-		String filename = "data//Lifetime-Data-FullWithFaisals-merge.txt";
+		String filename = "SKBZAPC//data//Lifetime-Data-FullWithFaisals-merge.txt";
 		System.out.println(" for filename " + filename);
 		HashMap<String, Integer> authors = new HashMap<String, Integer>();
 
